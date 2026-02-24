@@ -21,7 +21,7 @@ PACKAGES = [
     "pytest",
     "python-dotenv",
 ]
-
+#hdbcjhvdscjhsdv
 print(f"Python version:  {sys.version}")
 print(f"Platform:        {platform.platform()}")
 print(f"Working dir:     {os.getcwd()}")
